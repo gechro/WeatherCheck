@@ -1,0 +1,24 @@
+* {
+  font-family: sans-serif;
+  color: royalblue;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+  background-color: lightblue;
+  background-image: linear-gradient(to bottom right, lightblue, royalblue);
+}
+
+h1,h2,h3,h4,h5 {
+  text-align: center;
+}
+
+input, button {
+  padding: 5px;
+  display: block;
+  margin: 10px auto;
+  border-style: 1px solid red;
+  border-radius: 7px;
+}
